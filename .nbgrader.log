@@ -249,3 +249,32 @@
 [NotebookApp | WARNING] Notebook w06-01-ExploratoryDataAnalysis.ipynb is not trusted
 [NotebookApp | INFO] Saving file at /w06-01-ExploratoryDataAnalysis.ipynb
 [NotebookApp | WARNING] Notebook w06-01-ExploratoryDataAnalysis.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 14.97ms referer=http://localhost:8888/notebooks/w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/w06-01-ExploratoryDataAnalysis.css (::1): No such file or directory: w06-01-ExploratoryDataAnalysis.css
+[NotebookApp | WARNING] 404 GET /notebooks/w06-01-ExploratoryDataAnalysis.css (::1) 2.50ms referer=http://localhost:8888/notebooks/w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.48ms referer=http://localhost:8888/notebooks/w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/w06-01-ExploratoryDataAnalysis.css (::1): No such file or directory: w06-01-ExploratoryDataAnalysis.css
+[NotebookApp | WARNING] 404 GET /notebooks/w06-01-ExploratoryDataAnalysis.css (::1) 2.20ms referer=http://localhost:8888/notebooks/w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | INFO] Saving file at /w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] Notebook w06-01-ExploratoryDataAnalysis.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 19.29ms referer=http://localhost:8888/notebooks/w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/w06-01-ExploratoryDataAnalysis.css (::1): No such file or directory: w06-01-ExploratoryDataAnalysis.css
+[NotebookApp | WARNING] 404 GET /notebooks/w06-01-ExploratoryDataAnalysis.css (::1) 1.96ms referer=http://localhost:8888/notebooks/w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.44ms referer=http://localhost:8888/notebooks/w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/w06-01-ExploratoryDataAnalysis.css (::1): No such file or directory: w06-01-ExploratoryDataAnalysis.css
+[NotebookApp | WARNING] 404 GET /notebooks/w06-01-ExploratoryDataAnalysis.css (::1) 2.35ms referer=http://localhost:8888/notebooks/w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | INFO] Saving file at /w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] Notebook w06-01-ExploratoryDataAnalysis.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] Notebook w06-01-ExploratoryDataAnalysis.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /w06-01-ExploratoryDataAnalysis.ipynb
+[NotebookApp | WARNING] Notebook w06-01-ExploratoryDataAnalysis.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for e7305826-b0cf-4fa7-a8ac-bfe2ae984224:aa656fa2c4884e95bb66117f8e54b1a6
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e7305826-b0cf-4fa7-a8ac-bfe2ae984224
